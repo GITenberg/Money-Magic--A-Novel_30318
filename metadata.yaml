@@ -1,0 +1,33 @@
+_repo: Money-Magic--A-Novel_30318
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garland, Hamlin
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '1034'
+    url: http://www.gutenberg.org/2009/agents/1034
+    wikipedia: http://en.wikipedia.org/wiki/Hamlin_Garland
+description: In this gripping story of love and sacrifice, it's love at first sight
+  for Bertie a married woman and Ben. Bertie's husband suffers from a weak heart,
+  while Ben's fiancée is dying of consumption. Facing the inevitable, Ben's fiancée
+  conspires with Bertie's husband, hatching a plan that leaves Bertie and Ben free
+  to marry.
+gutenberg_issued: '2009-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30318'
+  lccn: '07032322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Colorado -- Fiction'
+- !lcsh 'Western stories'
+title: 'Money Magic: A Novel'
+url: http://www.gutenberg.org/ebooks/30318
